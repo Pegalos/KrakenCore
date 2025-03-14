@@ -1,3 +1,3 @@
 # KrakenCore
 
-Closed source until first release.
+Closed source until first (finished) release.
