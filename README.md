@@ -3,3 +3,4 @@
 </p>
 
 Closed source until first (finished) release.
+logo is a wip
